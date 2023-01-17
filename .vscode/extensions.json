@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "rangav.vscode-thunder-client",
+    "gruntfuggly.todo-tree",
+    "wakatime.vscode-wakatime",
+    "ms-edgedevtools.vscode-edge-devtools",
+    "visualstudioexptteam.vscodeintellicode",
+    "visualstudioexptteam.intellicode-api-usage-examples",
+    "visualstudioexptteam.vscodeintellicode-completions",
+    "igorsbitnev.error-gutters",
+    "adpyke.codesnap"
+  ]
+}

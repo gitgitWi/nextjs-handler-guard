@@ -3,5 +3,22 @@
 	"build": {
 		"context": "..",
 		"dockerfile": "./dev.alpine.Dockerfile"
+	},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"esbenp.prettier-vscode",
+				"dbaeumer.vscode-eslint",
+				"christian-kohler.path-intellisense",
+				"christian-kohler.npm-intellisense",
+				"wix.vscode-import-cost",
+				"eamodio.gitlens-insiders",
+				"mhutchie.git-graph",
+				"evondev.indent-rainbow-palettes",
+				"kisstkondoros.vscode-codemetrics",
+				"streetsidesoftware.code-spell-checker",
+				"mutantdino.resourcemonitor"
+			]
+		}
 	}
 }
