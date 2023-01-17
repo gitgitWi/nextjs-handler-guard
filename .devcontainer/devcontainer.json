@@ -1,0 +1,7 @@
+{
+	"name": "Existing Dockerfile",
+	"build": {
+		"context": "..",
+		"dockerfile": "./dev.alpine.Dockerfile"
+	}
+}
