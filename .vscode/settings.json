@@ -1,0 +1,13 @@
+{
+  "editor.formatOnSave": true,
+  "files.autoSave": "onFocusChange",
+  "prettier.printWidth": 80,
+  "prettier.endOfLine": "lf",
+  "prettier.singleQuote": true,
+  "prettier.useTabs": false,
+  "prettier.tabWidth": 2,
+  "prettier.trailingComma": "es5",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.suggest.preview": true,
+  "cSpell.showAutocompleteSuggestions": true
+}
