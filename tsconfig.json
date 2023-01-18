@@ -1,0 +1,20 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "allowJs": true,
+    "checkJs": true,
+    "skipLibCheck": true,
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "incremental": true,
+    "forceConsistentCasingInFileNames": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+  },
+  "exclude": [
+    "node_modules",
+    ".pnpm-store",
+    ".devcontainer",
+    ".vscode",
+  ]
+}
